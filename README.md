@@ -1,6 +1,6 @@
 # weather-dashboard
 
-A Weather Forecast Search tool utilizing OpenWeather's API.
+A Weather Forecast Searchtool Utilizing OpenWeather's API.
 
 Deployed: https://andy-waine.github.io/weather-dashboard/
 
